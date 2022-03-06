@@ -1,6 +1,6 @@
 //Type Conversion - if you want to convert data into different data type Ex: number to string
 
-//Suppose if you want to store information like Zipcode or Mobile number. What will you use? Number or String? String is good option.
+//Suppose if you want to store information like zip-code or Mobile number. What will you use? Number or String? String is good option.
 //if you want to perform operations you store number in number data type otherwise you can store it as string datatype
 
 /*Coercion is the process of conversion of data from one type to another
